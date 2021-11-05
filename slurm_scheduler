@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Specify the number of cores (n=4), nodes (N=1)
+#SBATCH -o Tutorial_SuperCloud.sh.log-%j-%a
+#SBATCH -n 10
+#SBATCH -N 1
+
+# Loading the required modules
+module load anaconda/2021a
+
+# Run the script
+python3 SimpleParallelScript.py
