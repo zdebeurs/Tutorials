@@ -1,4 +1,9 @@
-# Super Cloud @ MIT Tutorial
+# Set of tutorials
+1. Super Cloud @ MIT Tutorial - How to run code on a supercomputer in parallel.
+2. mpyfit tutorial - How to fit any dataset using mpyfit (instead of scipy.optimize.curve_fit, which does not allow as much customization)
+
+
+# 1. Super Cloud @ MIT Tutorial
  
 1. Download the tutorial code from github onto your computer: https://github.com/zdebeurs/Tutorials
 2. Open the jupyter notebook by typing the following in your terminal: <p><code> jupyter notebook SimpleParallelScript.ipynb </code></p> 
@@ -16,7 +21,7 @@
 14. And you’re done! 
 
 
-# mpyfit tutorial
+# 2. mpyfit tutorial
 1. Download the tutorial code from github onto your computer: https://github.com/zdebeurs/Tutorials/mpfit_tutoral.ipynb
 2. Follow the instructions in the jupyter notebook and run the cells.
 
