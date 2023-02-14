@@ -1,6 +1,6 @@
 # Set of tutorials
 1. **Super Cloud @ MIT Tutorial**  - How to run code on a supercomputer in parallel. The instructions below are specific to Supercloud but the script used (<code> SimpleParallelScript.ipynb </code>) could be used on any supercomputer or computer with multiple cores.
-2. **mpyfit tutorial**  - How to fit any dataset using mpyfit (instead of scipy.optimize.curve_fit, which does not allow as much customization)
+2. **mpyfit tutorial**  - How to fit any dataset using mpyfit (instead of scipy.optimize.curve_fit, which does not allow for as much customization)
 
 
 # 1. Super Cloud @ MIT Tutorial
