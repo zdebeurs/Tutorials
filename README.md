@@ -1,4 +1,4 @@
-# Tutorial_Supercloud
+# Super Cloud @ MIT Tutorial
  
 1. Download the tutorial code from github onto your computer: https://github.com/zdebeurs/Tutorial_Supercloud
 2. Open the jupyter notebook by typing the following in your terminal: <p><code> jupyter notebook SimpleParallelScript.ipynb </code></p> 
