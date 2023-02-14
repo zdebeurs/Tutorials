@@ -17,4 +17,6 @@
 
 
 # mpyfit tutorial
-1. Download the tutorial code from github onto your computer: https://github.com/zdebeurs/Tutorials/
+1. Download the tutorial code from github onto your computer: https://github.com/zdebeurs/Tutorials/mpfit_tutoral.ipynb
+2. Follow the instructions in the jupyter notebook and run the cells.
+
